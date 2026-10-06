@@ -63,9 +63,7 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </td>
 </tr>
-</table>
-<h2>🔬 Yapay Zekâ Projeleri</h2>
-<table>
+
 <tr>
 <td width="50%" valign="top">
 <h3>🧠 <a href="https://github.com/Tugce-hub/Brain-Hemorrhage-Detection">Brain Hemorrhage Detection</a></h3>
